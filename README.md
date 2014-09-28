@@ -1,0 +1,4 @@
+restKata
+========
+
+restful application kata
